@@ -1,3 +1,1 @@
-edicao2
-edicao 3
-ok
+Este é um arquivo de teste para o GitHub.
